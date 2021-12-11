@@ -1,0 +1,9 @@
+# ignore all files starting with .
+.*
+.session
+.session-journal
+/output
+/output/
+# Track .env example
+!.env.example
+!.gitignore

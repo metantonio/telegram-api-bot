@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytelegrambotapi = "*"
+"http.client" = "*"
+requests = "*"
+lxml = "*"
+bs4 = "*"
+schedule = "*"
+telebot = "*"
+python-telegram-bot = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
