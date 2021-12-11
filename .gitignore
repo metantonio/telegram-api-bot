@@ -4,6 +4,7 @@
 .session-journal
 output/
 **/output/
+output/**
 # Track .env example
 !.env.example
 !.gitignore
