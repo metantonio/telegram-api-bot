@@ -1,9 +1,9 @@
-# Localizar número celular (no de manera exacta, la API es pública)
+# TELEGRAM API y TELEGRAM BOT
 <!-- Sección portada del repositorio -->
 <a href="#">
     <img src="./portada.jpg" />
 </a>
-Este script en python se realizó para crear un BOT.
+Este script en python se realizó para crear un BOT y un poco sobre el uso de la API.
 
 # TELEGRAM
 Lo que primero que tienes que hacer es mandar un mensaje desde Telegram al BotFather (@BotFather), en concreto el de «/newbot».
