@@ -2,6 +2,7 @@
 .*
 .session
 .session-journal
+Session.session
 output/
 **/output/
 output/**
